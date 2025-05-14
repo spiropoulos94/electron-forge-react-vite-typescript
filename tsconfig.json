@@ -11,6 +11,17 @@
     "outDir": "dist",
     "moduleResolution": "node",
     "resolveJsonModule": true,
-    "jsx": "react-jsx"
+    "jsx": "react-jsx",
+    "paths": {
+      "@/*": [
+        "src/*"
+      ],
+      "@ui/*": [
+        "src/ui/*"
+      ],
+      "@electron/*": [
+        "src/electron/*"
+      ]
+    }
   }
 }

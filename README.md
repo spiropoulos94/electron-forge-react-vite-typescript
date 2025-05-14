@@ -21,7 +21,7 @@ A modern desktop application template using Electron Forge with React, Vite, and
 
 ```bash
 # Clone the repository
-git clone [your-repo-url]
+git clone [this-repo]
 cd electron-forge-react-vite-typescript
 
 # Install dependencies

@@ -1,6 +1,6 @@
 {
-  "name": "forge-vite-ts-react",
-  "productName": "forge-vite-ts-react",
+  "name": "electron-forge-react-vite-typescript",
+  "productName": "electron-forge-react-vite-typescript",
   "version": "1.0.0",
   "description": "My Electron application description",
   "main": ".vite/build/main.js",
